@@ -13,10 +13,10 @@ How to Use
 2) Prepare your CSV file
 
 - When you run the script (domain.py) , it will prompt you to provide a CSV file.
-- The CSV must contain a header in the first row, and all the IP addresses you want to scan should be listed in the first column under that header.
+- The CSV must contain a header in the first row, and all the domains you want to scan should be listed in the first column under that header.
 
 3) Output
 
 - After scanning, the script will generate two CSV files:
-- One containing the results of all successfully scanned IPs.
-- Another containing the IPs that failed to scan.
+- One containing the results of all successfully scanned domains.
+- Another containing the domains that failed to scan.
